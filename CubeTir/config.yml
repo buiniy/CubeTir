@@ -1,0 +1,23 @@
+---
+tir_location:
+  world: world
+  pos_x: 419
+  pos_y: 79
+  pos_z: 357
+  distance: 20
+  payout_min: 1
+  payout_max: 10
+hologram-top:
+  world: world
+  pos_x: 424
+  pos_y: 73
+  pos_z: 343
+  top_content: |-
+    §c§l ----- §aТоп 10 тир §c§l -----
+    §r%top%
+form-tp-pos:
+  world: world
+  pos_x: 424
+  pos_y: 73
+  pos_z: 343
+...

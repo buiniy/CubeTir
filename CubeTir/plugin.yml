@@ -1,0 +1,10 @@
+name: CubeTir
+main: phpcube\CubeTirLoader
+api: 5.6.0
+version: 1.0.0
+author:
+- phpcube
+description: "Тир"
+permissions:
+  cmd.tir:
+    default: true
